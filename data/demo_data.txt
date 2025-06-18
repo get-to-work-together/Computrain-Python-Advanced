@@ -1,0 +1,9 @@
+Namen,Woonplaats
+Eric,Hoogkarpsel
+Tim,Oldenzaal
+Kalok,Valkenswaard
+Paul,Linschoten
+Chander,Hoofddorp
+Maarten,Ede
+Yvonne,Rijswijk
+Peter,Lhee
